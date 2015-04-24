@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-cd4223ad8a60e43bcb564ac6d42fa1199b0778dd.jar" />
+    </item>
+    <item
+        jar="/home/polen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.0.0/afe8399d352713b66e597e9670c741d1e60ae923/okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.0.0-416c5bba880045735322bc5a5c80a9eb87ef153e.jar" />
+    </item>
+    <item
+        jar="/home/polen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/okhttp-2.0.0-4f34759f8e0e609ac720e64c8cfe608b33cc025e.jar" />
+    </item>
+    <item
+        jar="/home/polen/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko/0.5-15/7fdb9093d50cf7c1bf88bc19838c7900d0e8c4ed/anko-0.5-15.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7fdb9093d50cf7c1bf88bc19838c7900d0e8c4ed">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/anko-0.5-15-ab9222ae78dada6e1e0f0f45f8e923b2420fc453.jar" />
+    </item>
+    <item
+        jar="/home/polen/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-2b78608c245006342525ed2a9dce375037e38802.jar" />
+    </item>
+    <item
+        jar="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/classes-0007e744782155011e7195cfa00b6e24f840f7ac.jar" />
+    </item>
+    <item
+        jar="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.9.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2b8a750df2a5d485d0c40b379b44371c5e6d98d">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/classes-cb023ea02f1a852d7997d0e8134df32571d19407.jar" />
+    </item>
+    <item
+        jar="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/classes-5152a084ee454f1a4d3bf200f3ccdfb54e90baf8.jar" />
+    </item>
+    <item
+        jar="/home/polen/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/0.11.91/3b53e4d9ba6595fa90c9f8405ece035d7eae11af/kotlin-stdlib-0.11.91.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b53e4d9ba6595fa90c9f8405ece035d7eae11af">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-0.11.91-f1934e15004789b67b5e77ea09f15d0944b1abca.jar" />
+    </item>
+    <item
+        jar="/home/polen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.0/2534c458682c73f5b9871131ab3098d3f987ca3/okio-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/okio-1.0.0-6a337cb9da4ea7f10cbe702da2ffa442be04a18f.jar" />
+    </item>
+    <item
+        jar="/home/polen/android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-8657bbbfc21b1b548d675db97ff3f31f5999f472.jar" />
+    </item>
+    <item
+        jar="/home/polen/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/0.11.91/5751624dc70cadd14c37e6e0043f554e993d2316/kotlin-runtime-0.11.91.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5751624dc70cadd14c37e6e0043f554e993d2316">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/kotlin-runtime-0.11.91-2483a3ee45b3365d62819c520fc78cf98a9bd2df.jar" />
+    </item>
+    <item
+        jar="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/classes-78a157f69490b4680dc280d54cc6eb67486b3323.jar" />
+    </item>
+    <item
+        jar="/home/polen/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/polen/AndroidStudioProjects/Emotions/app/build/intermediates/pre-dexed/debug/gson-2.3.1-c1a680d15f7818f1e901d31ec0fd7daf4ee38b53.jar" />
+    </item>
+
+</items>
