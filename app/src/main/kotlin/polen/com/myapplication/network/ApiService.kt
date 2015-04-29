@@ -1,6 +1,7 @@
 package polen.com.myapplication.network
 
 import polen.com.myapplication.domain.Movie
+import polen.com.myapplication.domain.MovieList
 import polen.com.myapplication.network.apis.MovieApis
 import retrofit.Callback
 import retrofit.RequestInterceptor
@@ -33,5 +34,9 @@ public class ApiService {
 
     public fun getMovie(id: Long, callback: Callback<Movie>) {
         api.getMovie(id,callback)
+    }
+
+    public fun getUpComingMovies(callback: Callback<MovieList>) {
+        api.getUpComingMovies(callback)
     }
 }
