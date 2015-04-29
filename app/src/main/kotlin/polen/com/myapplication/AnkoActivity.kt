@@ -1,12 +1,12 @@
 package polen.com.myapplication
 
 import android.app.Activity
+import android.net.Uri
 import android.os.Bundle
 import android.view.View
 import android.view.ViewGroup
-import android.widget.BaseAdapter
-import android.widget.ListView
-import android.widget.TextView
+import android.widget.*
+import com.bumptech.glide.Glide
 import kotlinx.android.anko.*
 import polen.com.myapplication.domain.Movie
 import polen.com.myapplication.domain.MovieList
@@ -44,20 +44,27 @@ public class AnkoActivity : Activity() {
                         var view = convertView
                         if (view == null) {
                             view = with(parent.getContext()) {
-                                verticalLayout {
-                                    val title = textView {
-                                        id = R.id.title
-                                        text = t?.results?.get(position)?.title
-                                    }
-                                    val overview = textView {
-                                        id = R.id.withText
-                                        text = t?.results?.get(position)?.overview
-                                    }
+                                linearLayout {
+                                    orientation = LinearLayout.HORIZONTAL
+                                    imageView {
+                                        id = R.id.image
+                                    }.layoutParams(height = matchParent)
+                                    verticalLayout {
+                                        val title = textView {
+                                            id = R.id.title
+                                            text = t?.results?.get(position)?.title
+                                        }
+                                        val overview = textView {
+                                            id = R.id.withText
+                                            text = t?.results?.get(position)?.overview
+                                        }
+                                    }.layoutParams(weight = 1f)
                                 }
                             }
                         } else {
                             (view?.findViewById(R.id.title) as? TextView)?.setText(t?.results?.get(position)?.title)
                             (view?.findViewById(R.id.withText) as? TextView)?.setText(t?.results?.get(position)?.overview)
+                            (view?.findViewById(R.id.image) as? ImageView)?.setImageUrl("https://image.tmdb.org/t/p/w500/${t?.results?.get(position)?.backdrop_path}")
                         }
                         return view
                     }
@@ -71,6 +78,10 @@ public class AnkoActivity : Activity() {
                     }
 
                 })
+            }
+
+            fun ImageView.setImageUrl(url: String) {
+                Glide.with(getContext()).load(url).into(this)
             }
 
         })

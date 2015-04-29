@@ -9,6 +9,13 @@
         <dex dex="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-0.11.91-fa162402b4db44e0665ae73ed75251a3faecba38.jar" />
     </item>
     <item
+        jar="/Users/polenchheang/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-19a46309a082f01a68e022e2afaccdb253cb59a8.jar" />
+    </item>
+    <item
         jar="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -21,6 +28,20 @@
         revision="21.1.2"
         sha1="a681c044244d9fc375198588297a39ba78028423">
         <dex dex="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-a3665acc5a39d9640aff30722df497f0ca9f9146.jar" />
+    </item>
+    <item
+        jar="/Users/polenchheang/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/pre-dexed/debug/glide-3.5.2-769869cfba99f046c46b43cd79396e2ab9d8e8e1.jar" />
+    </item>
+    <item
+        jar="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/pre-dexed/debug/classes-250cf035684ed9c91710d952ab19de530e36da3c.jar" />
     </item>
     <item
         jar="/Users/polenchheang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
@@ -42,6 +63,13 @@
         revision="21.1.2"
         sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
         <dex dex="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/pre-dexed/debug/okhttp-2.0.0-201cd537425576f5a1c9a537c9d25a1f6fc92b83.jar" />
+    </item>
+    <item
+        jar="/Users/polenchheang/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/0.11.91/5751624dc70cadd14c37e6e0043f554e993d2316/kotlin-runtime-0.11.91.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5751624dc70cadd14c37e6e0043f554e993d2316">
+        <dex dex="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/pre-dexed/debug/kotlin-runtime-0.11.91-e91755cd942e06ef1522b5d9733f2f09ac7c5b6c.jar" />
     </item>
     <item
         jar="/Users/polenchheang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.0.0/afe8399d352713b66e597e9670c741d1e60ae923/okhttp-urlconnection-2.0.0.jar"
@@ -70,27 +98,6 @@
         revision="21.1.2"
         sha1="7fdb9093d50cf7c1bf88bc19838c7900d0e8c4ed">
         <dex dex="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/pre-dexed/debug/anko-0.5-15-1721bea380397b21b66b61ce949f94f62a7e217e.jar" />
-    </item>
-    <item
-        jar="/Users/polenchheang/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-19a46309a082f01a68e022e2afaccdb253cb59a8.jar" />
-    </item>
-    <item
-        jar="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="7912610ed96381c25c36d986eba422731b9641b6">
-        <dex dex="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/pre-dexed/debug/classes-250cf035684ed9c91710d952ab19de530e36da3c.jar" />
-    </item>
-    <item
-        jar="/Users/polenchheang/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/0.11.91/5751624dc70cadd14c37e6e0043f554e993d2316/kotlin-runtime-0.11.91.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5751624dc70cadd14c37e6e0043f554e993d2316">
-        <dex dex="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/pre-dexed/debug/kotlin-runtime-0.11.91-e91755cd942e06ef1522b5d9733f2f09ac7c5b6c.jar" />
     </item>
     <item
         jar="/Users/polenchheang/WorkSpaces/Android/emotion/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
